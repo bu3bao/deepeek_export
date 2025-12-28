@@ -13,6 +13,6 @@
 // @connect      cdn.jsdmirror.com
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js
-// @require      https://cdn.jsdmirror.com/gh/bu3bao/deepeek_export@main/s.min.js
+// @require      https://cdn.jsdmirror.com/gh/bu3bao/deepeek_export@main/x.min.js
 // @license      MIT
 // ==/UserScript==
