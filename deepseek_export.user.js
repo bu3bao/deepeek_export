@@ -8,5 +8,5 @@
 // @connect      *
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js
-// @require      https://cdn.jsdmirror.com/gh/bu3bao/deepeek_export@ds/x.min.js
+// @require      https://cdn.jsdelivr.net/gh/bu3bao/deepeek_export@ds/x.min.js
 // ==/UserScript==
