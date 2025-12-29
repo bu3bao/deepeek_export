@@ -1,18 +1,12 @@
 // ==UserScript==
-// @name         DeepSeek Chat Export
+// @name         DeepSeek Exporter
 // @name:zh-CN   DeepSeek 对话导出
-// @namespace    https://deepseek-exporter.pages.dev/
-// @version      1.0.0
-// @author       DeepSeek Exporter
 // @match        https://chat.deepseek.com/*
-// @icon         https://chat.deepseek.com/favicon.svg
+// @icon         https://edgeoneimg.cdn.sn/i/69292a16a83ad_1764305430.webp
 // @grant        GM_addStyle
-// @grant        GM_setClipboard
 // @grant        GM_xmlhttpRequest
-// @connect      ds.aiky.de5.net
-// @connect      cdn.jsdmirror.com
+// @connect      *
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js
-// @require      https://cdn.jsdmirror.com/gh/bu3bao/deepeek_export@main/x.min.js
-// @license      MIT
+// @require      https://cdn.jsdmirror.com/gh/bu3bao/deepeek_export@ds/x.min.js
 // ==/UserScript==
