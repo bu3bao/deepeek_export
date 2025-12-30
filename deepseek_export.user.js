@@ -5,7 +5,7 @@
 // @version      1.0.0
 // @description  Export DeepSeek AI conversations to PDF, Image, Word, Markdown, JSON, TXT, HTML formats. Supports exporting "Deep Thinking" content.
 // @description:zh-CN  导出 DeepSeek AI 对话为 PDF、图片、Word、Markdown、JSON、TXT、HTML 格式，支持导出"深度思考"内容。
-// @author       bu3bao
+// @author       Aiky
 // @license      MIT
 // @match        https://chat.deepseek.com/*
 // @icon         https://edgeoneimg.cdn.sn/i/69292a16a83ad_1764305430.webp
